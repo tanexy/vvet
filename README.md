@@ -162,8 +162,7 @@ still needs the labelled set above.
 
 ## How AI was used
 
-I used the OpenCode coding agent (Big Pickle) to scaffold the project, write
-the first pass of the prompt, implementation, tests and this README. I reviewed
+I used the OpenCode coding agent to scaffold the project write , tests. I reviewed
 the code and made the product decisions above: the validation and
 drop-versus-fail policy, quote verification, `no`/`not_sure` semantics,
 deduplication, and keeping escalation in plain code. All code is intended to be
